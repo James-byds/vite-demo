@@ -1,10 +1,10 @@
-# Vite-wf12
+# Vite-Basics + scss
 
-## Après le clone 
-- cd vite-wf12
+## AFTER CLONING
+- cd vite-demo
 - npm i
 - npm run dev
 
-## Pour la production
+## FOR PRODUCTION
 - npm run build
 - npm run preview
